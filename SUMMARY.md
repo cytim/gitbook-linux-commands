@@ -5,4 +5,6 @@
   * [Manage Remotes](/git/manage-remotes.md)
 * [Docker](/docker/README.md)
   * [Manage Images](/docker/manage-images.md)
+* Miscellaneous
+  * [SSH](/miscellaneous/ssh.md)
 
