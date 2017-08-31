@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Git](/git/README.md)
+  * [Setup New Project](/git/setup-new-project.md)
   * [Manage Remotes](/git/manage-remotes.md)
 * [Docker](/docker/README.md)
   * [Manage Images](/docker/manage-images.md)
