@@ -1,7 +1,7 @@
 # File System: Search Files
 
 
-### File Search
+### Search By Metadata
 
 ```sh
 find <PATH> [-name <PATTERN>] [-type <FILE_TYPE>] [-delete]
@@ -10,7 +10,7 @@ find <PATH> [-name <PATTERN>] [-type <FILE_TYPE>] [-delete]
 > `<FILE_TYPE>`: regular file (`f`), directory (`d`), symlink (`l`), etc.
 
 
-### Content Search
+### Search By Content
 
 ```sh
 grep -inr '<SEARCH_PATTERN>' <FILENAME_PATTERN>
