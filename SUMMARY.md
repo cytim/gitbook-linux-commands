@@ -13,6 +13,7 @@
   * [Release Project](/git/release-project.md)
 * [Docker](/docker/README.md)
   * [Manage Images](/docker/manage-images.md)
+  * [Manage Containers](/docker/manage-containers.md)
 * Miscellaneous
   * [SSH](/miscellaneous/ssh.md)
 
