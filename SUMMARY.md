@@ -14,6 +14,8 @@
 * [Docker](/docker/README.md)
   * [Manage Images](/docker/manage-images.md)
   * [Manage Containers](/docker/manage-containers.md)
+* [OpenShift](/openshift/README.md)
+  * [Manage Roles and Bindings](/openshift/manage-roles-and-bindings.md)
 * Miscellaneous
   * [SSH](/miscellaneous/ssh.md)
 
