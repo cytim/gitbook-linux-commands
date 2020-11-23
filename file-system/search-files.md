@@ -10,6 +10,26 @@ find <PATH> [-name <PATTERN>] [-type <FILE_TYPE>] [-delete]
 > `<FILE_TYPE>`: regular file (`f`), directory (`d`), symlink (`l`), etc.
 
 
+**Execute Command After "find"**
+
+```sh
+# Run the CMD on each result
+# Example CMD: `dirname {}`
+
+find ... -exec <CMD> \;
+# OR
+find ... -print0 | xargs -0 -n1 -I {} <CMD>
+
+# Run the CMD on the whole result
+
+find ... -exec <CMD> \+
+# OR
+find ... -print0 | xargs -0 -I {} <CMD>
+```
+
+> [Differences between `find -exec` and `find | xargs`](https://www.everythingcli.org/find-exec-vs-find-xargs/)
+
+
 ### Search By Content
 
 ```sh
