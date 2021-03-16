@@ -11,6 +11,8 @@
   * [Setup New Project](/git/setup-new-project.md)
   * [Manage Remotes](/git/manage-remotes.md)
   * [Release Project](/git/release-project.md)
+* Kafka
+  * [Quick Start](/kafka/quick-start.md)
 * OpenShift
   * [Manage Roles and Bindings](/openshift/manage-roles-and-bindings.md)
 * SSL / TLS
