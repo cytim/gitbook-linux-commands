@@ -108,7 +108,7 @@
 
    ```sh
    # Create the topic.
-   bin/kafka-topics.sh --bootstrap-server localhost:9092 --create --topic multi-broker-demo --replication-factor 1 --partitions 1
+   bin/kafka-topics.sh --bootstrap-server localhost:9092 --create --topic multi-broker-demo --replication-factor 3 --partitions 1
 
    # Describe the topic.
    bin/kafka-topics.sh --bootstrap-server localhost:9092 --describe --topic multi-broker-demo
