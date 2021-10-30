@@ -1,6 +1,6 @@
-# SSH: Key Pair
+# SSH: Key Management
 
-### Create A New Key Pair
+### Generate A New Key Pair
 
 > Reference: [GitHub Help](https://help.github.com/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent/)
 

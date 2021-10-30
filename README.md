@@ -1,4 +1,4 @@
-# Linux Commands
+# Commands
 
-A collection of useful linux commands.
+A collection of useful commands.
 
