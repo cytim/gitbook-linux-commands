@@ -1,6 +1,5 @@
 # Summary
 
-* [Introduction](README.md)
 * [Bookmarks](bookmarks.md)
 
 * [Docker](/docker/README.md)
