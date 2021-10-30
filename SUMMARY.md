@@ -9,6 +9,7 @@
 
 * [File System](/file-system/README.md)
   * [Search Files](/file-system/search-files.md)
+  * [Miscellaneous](/file-system/miscellaneous.md)
 
 * [Git](/git/README.md)
   * [Setup New Project](/git/setup-new-project.md)
