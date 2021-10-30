@@ -1,6 +1,9 @@
 # Summary
 
+* [Welcome](README.md)
 * [Bookmarks](bookmarks.md)
+
+## Commands
 
 * [Docker](/docker/README.md)
   * [Manage Images](/docker/manage-images.md)
