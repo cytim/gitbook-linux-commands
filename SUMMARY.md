@@ -1,44 +1,44 @@
 # Summary
 
 * [Welcome](README.md)
-* [Bookmarks](bookmarks.md)
 
 ## Commands
 
-* [AWS](/aws/README.md)
-  * [ECS](/aws/ecs.md)
+* [Bookmarks](/commands/bookmarks.md)
 
-* [Docker](/docker/README.md)
-  * [Manage Images](/docker/manage-images.md)
-  * [Manage Containers](/docker/manage-containers.md)
+* [AWS](/commands/aws/README.md)
+  * [ECS](/commands/aws/ecs.md)
 
-* [File System](/file-system/README.md)
-  * [Search Files](/file-system/search-files.md)
-  * [Miscellaneous](/file-system/miscellaneous.md)
+* [Docker](/commands/docker/README.md)
+  * [Manage Images](/commands/docker/manage-images.md)
+  * [Manage Containers](/commands/docker/manage-containers.md)
 
-* [Git](/git/README.md)
-  * [Setup New Project](/git/setup-new-project.md)
-  * [Manage Remotes](/git/manage-remotes.md)
-  * [Release Project](/git/release-project.md)
+* [File System](/commands/file-system/README.md)
+  * [Search Files](/commands/file-system/search-files.md)
+  * [Miscellaneous](/commands/file-system/miscellaneous.md)
 
-* [Kafka](/kafka/README.md)
-  * [Quick Start](/kafka/quick-start.md)
+* [Git](/commands/git/README.md)
+  * [Setup New Project](/commands/git/setup-new-project.md)
+  * [Manage Remotes](/commands/git/manage-remotes.md)
+  * [Release Project](/commands/git/release-project.md)
 
-* [OpenShift](/openshift/README.md)
-  * [Manage Roles and Bindings](/openshift/manage-roles-and-bindings.md)
+* [Kafka](/commands/kafka/README.md)
+  * [Quick Start](/commands/kafka/quick-start.md)
 
-* [SSL / TLS](/tls/README.md)
-  * [Common OpenSSL Commands](/tls/common-openssl-commands.md)
-  * [Create Self-signed Certificate](/tls/create-self-signed-certificate.md)
-  * [Java Truststore and Keystore](/tls/java-truststore-and-keystore.md)
+* [OpenShift](/commands/openshift/README.md)
+  * [Manage Roles and Bindings](/commands/openshift/manage-roles-and-bindings.md)
 
-* [SSH](/ssh/README.md)
-  * [Key Management](/ssh/key-management.md)
+* [SSL / TLS](/commands/tls/README.md)
+  * [Common OpenSSL Commands](/commands/tls/common-openssl-commands.md)
+  * [Create Self-signed Certificate](/commands/tls/create-self-signed-certificate.md)
+  * [Java Truststore and Keystore](/commands/tls/java-truststore-and-keystore.md)
 
-* [YUM](/yum/README.md)
-  * [List Repositories](/yum/list-repositories.md)
-  * [List Packages](/yum/list-packages.md)
+* [SSH](/commands/ssh/README.md)
+  * [Key Management](/commands/ssh/key-management.md)
 
-* [Miscellaneous](/miscellaneous/README.md)
-  * [Network](/miscellaneous/network.md)
+* [YUM](/commands/yum/README.md)
+  * [List Repositories](/commands/yum/list-repositories.md)
+  * [List Packages](/commands/yum/list-packages.md)
 
+* [Miscellaneous](/commands/miscellaneous/README.md)
+  * [Network](/commands/miscellaneous/network.md)
