@@ -1,5 +1,13 @@
 # SSL / TLS: Create A Self-signed Certificate
 
+### Without Root CA
+
+```sh
+openssl req -new -newkey rsa:2048 -days 365 -nodes -x509 -keyout server.key -out server.crt
+```
+
+### With Root CA
+
 1. Create a root CA.
 
     ```sh
