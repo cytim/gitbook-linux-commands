@@ -14,6 +14,7 @@
   * [Manage Containers](/commands/docker/manage-containers.md)
 
 * [File System](/commands/file-system/README.md)
+  * [Grep](/commands/file-system/grep.md)
   * [Search Files](/commands/file-system/search-files.md)
   * [Miscellaneous](/commands/file-system/miscellaneous.md)
 
