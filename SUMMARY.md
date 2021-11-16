@@ -36,6 +36,7 @@
 
 * [SSH](/commands/ssh/README.md)
   * [Key Management](/commands/ssh/key-management.md)
+  * [Port Forwarding](/commands/ssh/port-forwarding.md)
 
 * [YUM](/commands/yum/README.md)
   * [List Repositories](/commands/yum/list-repositories.md)
