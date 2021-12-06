@@ -29,6 +29,8 @@
 * [OpenShift](/commands/openshift/README.md)
   * [Manage Roles and Bindings](/commands/openshift/manage-roles-and-bindings.md)
 
+* [PostgreSQL](/commands/postgresql/README.md)
+
 * [SSL / TLS](/commands/tls/README.md)
   * [Common OpenSSL Commands](/commands/tls/common-openssl-commands.md)
   * [Create Self-signed Certificate](/commands/tls/create-self-signed-certificate.md)
