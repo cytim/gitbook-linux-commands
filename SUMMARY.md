@@ -52,5 +52,9 @@
 * [Standards](/programming/standards/README.md)
   * [Twirp](/programming/standards/twirp.md)
 
+* [Elixir](/programming/elixir/README.md)
+  * [IEx](/programming/elixir/iex.md)
+  * [Mix](/programming/elixir/mix.md)
+
 * [Node.js](/programming/nodejs/README.md)
   * [TypeScript](/programming/nodejs/typescript.md)
