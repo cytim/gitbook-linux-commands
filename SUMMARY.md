@@ -55,6 +55,7 @@
 * [Elixir](/programming/elixir/README.md)
   * [IEx](/programming/elixir/iex.md)
   * [Mix](/programming/elixir/mix.md)
+  * [Libraries](/programming/elixir/libraries.md)
 
 * [Node.js](/programming/nodejs/README.md)
   * [TypeScript](/programming/nodejs/typescript.md)
