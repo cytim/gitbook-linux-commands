@@ -203,10 +203,7 @@ When the function calls itself as the final statement, instead of adding a new s
 
 We `import` a module to access its functions and macros without referencing its fully-qualified name.
 
-<aside>
-⚠️ The use of `import` is ***discouraged*** because you cannot directly see in what module a function is defined.
-
-</aside>
+> ⚠️ The use of `import` is **_discouraged_** because you cannot directly see in what module a function is defined.
 
 ### require
 
@@ -216,10 +213,7 @@ We `require` a module to opt-in using the macros.
 
 We `use` a module to allow the module to inject **_any_** code in the current module.
 
-<aside>
-💡 Using a module is the same as `requir`ing it and then calling its `__using__` function.
-
-</aside>
+> 💡 Using a module is the same as `requir`ing it and then calling its `__using__` function.
 
 ## Plug
 
