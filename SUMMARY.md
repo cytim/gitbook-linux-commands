@@ -11,6 +11,7 @@
 - [Best Practices](/programming/best-practices/README.md)
 
   - [Data Migration](/programming/best-practices/data-migration.md)
+  - [SOLID Principles](/programming/best-practices/solid-principles.md)
 
 - [Elixir](/programming/elixir/README.md)
 
