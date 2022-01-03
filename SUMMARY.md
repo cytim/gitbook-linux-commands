@@ -8,6 +8,10 @@
 
   - [Twirp](/programming/standards/twirp.md)
 
+- [Best Practices](/programming/best-practices/README.md)
+
+  - [Data Migration](/programming/best-practices/data-migration.md)
+
 - [Elixir](/programming/elixir/README.md)
 
   - [IEx](/programming/elixir/iex.md)
