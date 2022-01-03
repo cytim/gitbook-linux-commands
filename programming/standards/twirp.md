@@ -57,7 +57,3 @@ Twitch was using gRPC originally but they decided to develop Twirp because
 Twirp is created to support both http/1.1 and http/2. It trades off some
 runtime performance for a more stable ecosystem. Twirp also supports JSON
 encoding that developers can test the API easily with cURL.
-
-## Twirp in Action
-
-_TODO_
