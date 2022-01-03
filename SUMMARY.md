@@ -6,6 +6,8 @@
 
 - [Standards](/programming/standards/README.md)
 
+  - [EAV Model](/programming/standards/entity-attribute-value-model.md)
+  - [ETL Process](/programming/standards/extract-transform-load.md)
   - [Twirp](/programming/standards/twirp.md)
 
 - [Best Practices](/programming/best-practices/README.md)
