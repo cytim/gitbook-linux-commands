@@ -53,6 +53,8 @@
 
   - [Quick Start](/commands/kafka/quick-start.md)
 
+- [Kubernetes](/commands/kubernetes/README.md)
+
 - [OpenShift](/commands/openshift/README.md)
 
   - [Manage Roles and Bindings](/commands/openshift/manage-roles-and-bindings.md)
