@@ -6,6 +6,7 @@
 
 - [Standards](/programming/standards/README.md)
 
+  - [Character Encoding](/programming/standards/character-encoding.md)
   - [EAV Model](/programming/standards/entity-attribute-value-model.md)
   - [ETL Process](/programming/standards/extract-transform-load.md)
   - [Twirp](/programming/standards/twirp.md)
