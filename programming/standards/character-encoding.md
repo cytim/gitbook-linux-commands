@@ -23,13 +23,13 @@ A code point is represented by a leading "U+" and the subsequent hexadecimal val
 are then devided into 10 (in hex), or 17 (in decimal) code planes.
 
 ```
-  0000 -   FFFF
- 10000 -  1FFFF
-       .
-       .
-       .
- F0000 -  FFFFF
-100000 - 10FFFF
+  U+0000 -   U+FFFF
+ U+10000 -  U+1FFFF
+         .
+         .
+         .
+ U+F0000 -  U+FFFFF
+U+100000 - U+10FFFF
 ```
 
 ### UTF-8
