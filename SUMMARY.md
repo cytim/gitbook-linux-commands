@@ -31,6 +31,7 @@
 
 - [AWS](/commands/aws/README.md)
 
+  - [Athena](/commands/aws/athena.md)
   - [ECS](/commands/aws/ecs.md)
 
 - [Docker](/commands/docker/README.md)
