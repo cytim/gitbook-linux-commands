@@ -21,6 +21,7 @@
   - [IEx](/programming/elixir/iex.md)
   - [Mix](/programming/elixir/mix.md)
   - [Libraries](/programming/elixir/libraries.md)
+  - [Code Snippets](/programming/elixir/code-snippets.md)
 
 - [Node.js](/programming/nodejs/README.md)
   - [TypeScript](/programming/nodejs/typescript.md)
