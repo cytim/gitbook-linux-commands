@@ -4,17 +4,18 @@
 
 ## Software Development
 
-- [Standards](/software-development/standards/README.md)
-
-  - [Character Encoding](/software-development/standards/character-encoding.md)
-  - [Twirp](/software-development/standards/twirp.md)
-
 - [System Design](/software-development/system-design/README.md)
 
+  - [CAP Theorem](/software-development/system-design/cap-theorem.md)
   - [Data Migration](/software-development/system-design/data-migration.md)
   - [EAV Model](/software-development/system-design/entity-attribute-value-model.md)
   - [ETL Process](/software-development/system-design/extract-transform-load.md)
   - [SOLID Principles](/software-development/system-design/solid-principles.md)
+
+- [Standards](/software-development/standards/README.md)
+
+  - [Character Encoding](/software-development/standards/character-encoding.md)
+  - [Twirp](/software-development/standards/twirp.md)
 
 - [Elixir](/software-development/elixir/README.md)
 
