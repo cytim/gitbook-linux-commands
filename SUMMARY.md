@@ -2,29 +2,30 @@
 
 - [About](README.md)
 
-## Programming
+## Software Development
 
-- [Standards](/programming/standards/README.md)
+- [Standards](/software-development/standards/README.md)
 
-  - [Character Encoding](/programming/standards/character-encoding.md)
-  - [EAV Model](/programming/standards/entity-attribute-value-model.md)
-  - [ETL Process](/programming/standards/extract-transform-load.md)
-  - [Twirp](/programming/standards/twirp.md)
+  - [Character Encoding](/software-development/standards/character-encoding.md)
+  - [Twirp](/software-development/standards/twirp.md)
 
-- [Best Practices](/programming/best-practices/README.md)
+- [System Design](/software-development/system-design/README.md)
 
-  - [Data Migration](/programming/best-practices/data-migration.md)
-  - [SOLID Principles](/programming/best-practices/solid-principles.md)
+  - [Data Migration](/software-development/system-design/data-migration.md)
+  - [EAV Model](/software-development/system-design/entity-attribute-value-model.md)
+  - [ETL Process](/software-development/system-design/extract-transform-load.md)
+  - [SOLID Principles](/software-development/system-design/solid-principles.md)
 
-- [Elixir](/programming/elixir/README.md)
+- [Elixir](/software-development/elixir/README.md)
 
-  - [IEx](/programming/elixir/iex.md)
-  - [Mix](/programming/elixir/mix.md)
-  - [Libraries](/programming/elixir/libraries.md)
-  - [Code Snippets](/programming/elixir/code-snippets.md)
+  - [IEx](/software-development/elixir/iex.md)
+  - [Mix](/software-development/elixir/mix.md)
+  - [Libraries](/software-development/elixir/libraries.md)
+  - [Code Snippets](/software-development/elixir/code-snippets.md)
 
-- [Node.js](/programming/nodejs/README.md)
-  - [TypeScript](/programming/nodejs/typescript.md)
+- [Node.js](/software-development/nodejs/README.md)
+
+  - [TypeScript](/software-development/nodejs/typescript.md)
 
 ## Commands
 
@@ -81,4 +82,5 @@
   - [List Packages](/commands/yum/list-packages.md)
 
 - [Miscellaneous](/commands/miscellaneous/README.md)
+
   - [Network](/commands/miscellaneous/network.md)
