@@ -4,6 +4,44 @@
 
 Refer to [here](https://dev.to/ornio/node-js-express-with-typescript-eslint-jest-prettier-and-husky-part-1-1lin).
 
+## Narrowing
+
+A variable can be declared to have multiple types. TypeScript will throw an error if the variable type might not fit an
+operation.
+
+```ts
+function repeat(n: string | number) {
+  return "x".repeat(n);
+  // [Error]
+  // Argument of type 'string | number' is not assignable to parameter of type 'number'.
+}
+```
+
+To eliminate the error, we can "narrow" down the type before the operation.
+
+```ts
+function repeat(x: string | number) {
+  if (typeof n === "number") {
+    // TypeScript will understand that `n` is a number.
+    return "x".repeat(n);
+  }
+
+  // TypeScript will understand that `n` is a string.
+  return "x".repeat(Number(n));
+}
+```
+
+Typescript supports the following narrowing guards:
+
+- Truthiness
+- Equality
+- `typeof` operator
+- `in` operator
+- `instanceof` operator
+
+Please refer to [the official documentation](https://www.typescriptlang.org/docs/handbook/2/narrowing.html) for the
+details.
+
 ## Declaration Merging
 
 > [Official Documentation](https://www.typescriptlang.org/docs/handbook/declaration-merging.html)
