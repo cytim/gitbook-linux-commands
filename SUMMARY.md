@@ -4,6 +4,8 @@
 
 ## Software Development
 
+- [Glossary](/software-development/glossary.md)
+
 - [System Design](/software-development/system-design/README.md)
 
   - [CAP Theorem](/software-development/system-design/cap-theorem.md)
