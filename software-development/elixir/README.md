@@ -1,5 +1,9 @@
 # Elixir
 
+## Recommended Readings
+
+- [Good and Bad Elixir](https://keathley.io/blog/good-and-bad-elixir.html)
+
 ## Erlang/OTP
 
 Erlang was proprietary software within Ericsson, which is a telecom company. The software was maintained by the **O**pen **T**elecom **P**latform (OTP) product unit, who released Erlang/OTP as open-source in the late 1990s.
