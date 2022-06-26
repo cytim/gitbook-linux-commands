@@ -32,3 +32,32 @@
 > still being composable, allowing developers to build queries piece by piece instead of all at once.
 >
 > -- [Ecto](https://hexdocs.pm/ecto/Ecto.html)
+
+## Background Processing
+
+### Oban
+
+> Oban is a robust job processing library which uses PostgreSQL for storage and coordination.
+>
+> -- [Oban](https://hexdocs.pm/oban/Oban.html)
+
+Oban consists of three libraries.
+
+- [Oban](https://hexdocs.pm/oban/Oban.html)
+
+  - **Free** - Distributed under Apache 2.0.
+  - The core of the whole framework.
+  - Provide the basic background processing features like priority queues, scheduled jobs, graceful shutdown, etc.
+
+- [Oban Pro](https://getoban.pro/docs/pro/overview.html)
+
+  - **Commercial** product.
+  - Provide more sophisticated management like rate limiting, job encryption, etc.
+  - Provide the canned solutions for batches, workflows, etc.
+
+- [Oban Web](https://getoban.pro/docs/web/overview.html) ([demo](https://getoban.pro/oban))
+
+  - **Commercial** product.
+  - Provide the web portal to monitor and manage the enqueued jobs.
+
+Refer to [the official website](https://getoban.pro/#feature-comparison) for the feature comparison.
