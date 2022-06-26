@@ -61,3 +61,40 @@ Oban consists of three libraries.
   - Provide the web portal to monitor and manage the enqueued jobs.
 
 Refer to [the official website](https://getoban.pro/#feature-comparison) for the feature comparison.
+
+## Testing
+
+### Mock
+
+> Mock modules for testing purposes.
+>
+> -- [Mock](https://hexdocs.pm/mock/Mock.html)
+
+Use Mock when the module to be mocked is an internal module, or does not implement a
+[behaviour](https://hexdocs.pm/elixir/1.4.5/behaviours.html).
+
+### Hammox
+
+> Hammox is a library for rigorous unit testing using mocks, explicit behaviours and contract tests.
+>
+> -- [Hammox](https://hexdocs.pm/hammox/Hammox.html)
+
+Use Hammox when the module to be mocked is an external module that implements a behaviour.
+
+### Bypass
+
+> Bypass provides a quick way to create a custom plug that can be put in place instead of an actual HTTP server to return
+> prebaked responses to client requests.
+>
+> -- [Bypass](https://hexdocs.pm/bypass/Bypass.html)
+
+Use Bypass when the module under test **is** the API client to integrate with the external HTTP service.
+
+**NOTE** If the module under test is a wrapper of the API client, it is suggested to mock the API client by _Mock_ or
+_Hammox_, instead of mocking the HTTP server directly.
+
+### Faker
+
+> Faker is a pure Elixir library for generating fake data.
+>
+> -- [Faker](https://hexdocs.pm/faker/readme.html)
