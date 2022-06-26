@@ -98,3 +98,11 @@ _Hammox_, instead of mocking the HTTP server directly.
 > Faker is a pure Elixir library for generating fake data.
 >
 > -- [Faker](https://hexdocs.pm/faker/readme.html)
+
+## Others
+
+### Alchemy
+
+> Safely perform refactoring experiments in production.
+>
+> -- [Alchemy](https://hexdocs.pm/alchemy/readme.html)
