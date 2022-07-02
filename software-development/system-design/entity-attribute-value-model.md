@@ -9,14 +9,14 @@
 > \- [Wikipedia](https://en.wikipedia.org/wiki/Entity%E2%80%93attribute%E2%80%93value_model)
 
 As an example, assume that we are building _a Know Your Customer (KYC) system_ and we have to design a database table to
-store the identity information of a person.
+store the identity information of a customer.
 
-During the KYC process, the person can submit any kind of identity documents for us to identify him, including the
+During the KYC process, the customer can submit any kind of identity documents for us to identify him, including the
 national identity card, passport, driving license, residence permit and many more.
 
-Each type of identity documents contains different information. If we have to design a database table to store all
-possible attributes for all possible identity documents, the table will end up to have **dozens of columns** where most
-of them will be **null for most of the records**.
+Different identity documents contain different information. If we have to design a database table to store all possible
+attributes for all possible identity documents, the table will end up to have **dozens of columns** where most of them
+will be **null for most of the records**.
 
 Possible information on an identity document:
 
@@ -33,19 +33,19 @@ Possible information on an identity document:
 - Residential Address
 - Marital Status
 - Occupation
-- (...)
+- ...
 
 Instead of including every possible attribute as the columns, we can design the table to follow the EAV model.
 
 ```sql
-CREATE TABLE "identity_documents" (
+CREATE TABLE "identities" (
   "cumtomer_id" bigint NOT NULL,
   "attribute" varchar(255) NOT NULL,
   "value" varchar(255) NOT NULL
 );
 ```
 
-As a result, different customers can have different set of `identity_documents` records.
+As a result, different customers can have different set of `identities` records.
 
 | customer_id | attribute         | value                |
 | ----------- | ----------------- | -------------------- |
