@@ -12,6 +12,7 @@
   - [Data Migration](/software-development/system-design/data-migration.md)
   - [EAV Model](/software-development/system-design/entity-attribute-value-model.md)
   - [ETL Process](/software-development/system-design/extract-transform-load.md)
+  - [Outbox Pattern](/software-development/system-design/outbox-pattern.md)
   - [SOLID Principles](/software-development/system-design/solid-principles.md)
 
 - [Standards](/software-development/standards/README.md)
