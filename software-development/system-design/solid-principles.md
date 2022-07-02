@@ -1,4 +1,4 @@
-# Best Practices: SOLID Principles
+# SOLID Principles
 
 ## Single-responsibility Principle
 

@@ -1,4 +1,4 @@
-# Best Practices: Data Migration
+# Data Migration
 
 When an application grows, there are chances that we need to update the data model to improve the database performance
 or to fit the new business requirements. For example, we might need to break down a giant database into smaller shards
