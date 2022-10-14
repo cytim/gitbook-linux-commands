@@ -57,6 +57,8 @@
   - [Manage Remotes](/commands/git/manage-remotes.md)
   - [Release Project](/commands/git/release-project.md)
 
+- [GPG](/commands/gpg/README.md)
+
 - [Kafka](/commands/kafka/README.md)
 
   - [Quick Start](/commands/kafka/quick-start.md)
